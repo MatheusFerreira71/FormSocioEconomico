@@ -1,0 +1,18 @@
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Formulario de Cadastro.exe.config
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Formulario de Cadastro.exe
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Formulario de Cadastro.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\BLL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\DAL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Modelo.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\Modelo.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\BLL.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\bin\Debug\DAL.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.csprojAssemblyReference.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario_de_Cadastro.Properties.Resources.resources
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.csproj.GenerateResource.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.csproj.CopyComplete
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.exe
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario_de_Cadastro.Form_Principal.resources

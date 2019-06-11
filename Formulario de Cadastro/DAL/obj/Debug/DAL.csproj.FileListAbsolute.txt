@@ -1,0 +1,9 @@
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\bin\Debug\DAL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\bin\Debug\DAL.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\bin\Debug\Modelo.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\bin\Debug\Modelo.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\obj\Debug\DAL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,11 @@
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\BLL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\BLL.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\DAL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\Modelo.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\Modelo.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\bin\Debug\DAL.pdb
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\obj\Debug\BLL.dll
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\BLL\obj\Debug\BLL.pdb
