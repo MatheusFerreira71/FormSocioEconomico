@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace Formulario_de_Cadastro
 {
-    public partial class Form_Principal : Form
+    public partial class Form_Respostas : Form
     {
-        public Form_Principal()
+        public Form_Respostas()
         {
             InitializeComponent();
-        }
-
-        private void Btn_PrincipalResponder_Click(object sender, EventArgs e)
-        {
-            Form_Respostas respostas = new Form_Respostas();
-            respostas.ShowDialog();
         }
     }
 }

@@ -16,3 +16,4 @@ C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cad
 C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.exe
 C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario de Cadastro.pdb
 C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario_de_Cadastro.Form_Principal.resources
+C:\Users\Matheus\OneDrive - Fatec Centro Paula Souza\FATEC\Sócio Econômico\Cadastro\Formulario de Cadastro\obj\Debug\Formulario_de_Cadastro.Form_Respostas.resources
